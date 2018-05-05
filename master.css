@@ -1,0 +1,35 @@
+#tabla{
+  width: 300px;
+  height: 300px;
+  border: solid red 1px;
+
+}
+.polja{
+  width: 100px;
+  height: 100px;
+  border: solid red 1px;
+  float: left;
+  box-sizing: border-box;
+  text-align: center;
+  line-height: 100px;
+  color: red;
+  font-size: 5em;
+  background: gold;
+}
+#glavni{
+  height: 400px;
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+#winer{
+  height: 100px;
+  width: 300px;
+  background: red;
+  border: solid green 1px;
+  box-sizing: border-box;
+  color: green;
+  text-align: center;
+  line-height: 100px;
+  font-size: 2.5em;
+}
